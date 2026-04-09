@@ -1,6 +1,12 @@
 # fan-value-segmentation
 # Fan Value Segmentation
 
+## Repository Structure
+
+- `value_tier_segmentation.sql` → assigns fans to value and affinity tiers  
+- `high_value_non_buyers.sql` → identifies high-potential conversion targets  
+- `channel_participation_summary.sql` → analyzes behavior across engagement channels  
+
 ## Overview
 This project focuses on identifying high-potential fan segments using modeled value and engagement indicators such as lifetime value (LTV), digital engagement, and ticket purchasing behavior.
 
